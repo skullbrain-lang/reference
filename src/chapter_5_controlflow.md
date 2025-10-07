@@ -44,7 +44,7 @@ The currently accepted patterns in match arms (`<pattern>` in the `sigma amongus
 
 ## While
 
-Syntax: goon uwu <expr> owo bussin <statements> no cap
+Syntax: `goon uwu <expr> owo bussin <statements> no cap`
 
 ```skullbrain
 gyatt counter skibidi 0.
