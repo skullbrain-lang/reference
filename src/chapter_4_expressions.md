@@ -36,8 +36,8 @@ no cap
 
 ## Variable Declarations
 
-- Mutable: `gyatt <ident> [is <type>] skibidi <expr> [.]`
-- Immutable: `facts <ident> [is <type>] skibidi <expr> [.]`
+- Mutable: `gyatt <ident> [is <type>] [skibidi <expr> [.]}`
+- Immutable: `facts <ident> [is <type>] [skibidi <expr> [.]]`
 
 ```skullbrain
 gyatt counter is aura skibidi 0.
