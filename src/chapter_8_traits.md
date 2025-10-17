@@ -1,8 +1,11 @@
 # Traits
+
 Syntax: `vibe <ident> bussin [<body>] no cap`
 
 ```skullbrain
 vibe Printable bussin
+    gyatt yolo.
+
     bop goated print uwu mc owo.
     bop goated to_string uwu smth owo bustin chad bussin
         pluh "Default string".
@@ -12,20 +15,31 @@ no cap
 
 ## Implementation
 
-Syntax: `trippin <trait name> bet <class or enum> bussin [<definition>] no cap`
+- Syntax inside class or enum declarations: `trippin <name> bussin [<definition>] no cap`
 
 ```skullbrain
-trippin Printable bet <class or enum> bussin
+deadass <name> bussin 
+    trippin Printable <type> bussin
+        bop goated print uwu yo owo bussin
+            yo fam goated glaze to_string uwu owo.        
+        no cap
+    no cap
+no cap
+```
+
+- Syntax outside class or enum declarations: `trippin <name> with legit <type> bussin [<definition>] no cap`
+
+```skullbrain
+trippin Printable with legit <type> bussin
     bop goated print uwu yo owo bussin
         yo fam goated glaze to_string uwu owo.        
     no cap
 no cap
 ```
-Trait inheritance is not **yet** supported.
 
 ## Trait Bounds
 
-Syntax: `<ident> is <vibe>`
+Syntax: `<ident> is <trait>`
 
 ```skullbrain
 vibe Displayable bussin

@@ -2,7 +2,7 @@
 
 ## If-Else
 
-Syntax: `edgin check uwu <expr> owo bussin <expr> no cap [only in ohio edgin check uwu <expr> owo bussin <expr> no cap]* [only in ohio bussin <expr> no cap]`
+Syntax: `edgin check [<expr> |(uwu <expr> owo)] bussin <expr>* no cap [only in ohio edgin check  [<expr> |(uwu <expr> owo)] bussin <expr>* no cap]* [only in ohio bussin <expr>* no cap]`
 
 ```skullbrain
 gyatt score skibidi 85.
@@ -22,7 +22,7 @@ no cap
 
 ## Match
 
-Syntax is `rizz check <expr> bussin [sigma amongus <pattern> bustin <expr> no cap]* [cooked bustin <expr> no cap] no cap`
+Syntax is `rizz check  [<expr> |(uwu <expr> owo)] bussin [sigma amongus <pattern> bustin <expr>* no cap]* [cooked bustin <expr>* no cap] no cap`
 
 ```skullbrain
 gyatt grade skibidi 'B'.
@@ -44,26 +44,22 @@ The currently accepted patterns in match arms (`<pattern>` in the `sigma amongus
 
 ## While
 
-Syntax: `goon uwu <expr> owo bussin <statements> no cap`
+Syntax: `goon [<name> skibidi] [<expr> |(uwu <expr> owo)] bussin <expr>* no cap`
 
 ```skullbrain
 gyatt counter skibidi 0.
 goon uwu counter lowkey 5 owo bussin
     counter skibidi counter boost 1.
 no cap
-```
 
-## For Each
-
-Syntax: `alpha <ident> beta <expr> bussin <statements> no cap` where `<expr>` must evaluate to an iterable 
-
-```skullbrain
-alpha i beta array bussin
-    yo fam i.
+yo fam Alternative Syntax 
+goon counter skibidi uwu counter lowkey 5 owo bussin
+    counter
 no cap
 ```
 
 ## Break and Continue
+
 - Break: `bruh` exits loop; optional `bruh <expr>` returns value.
 - Continue: `grind` skips to next iteration.
 

@@ -20,9 +20,6 @@
 | `!`      | `nah`             | Logical NOT                     |
 | `.`      | `glaze`           | Method chaining                 |
 
-
-
-
 ## Block Expressions
 
 Syntax: `bussin <statements> [pluh <expr>] no cap`
@@ -45,4 +42,3 @@ facts PI is vibing skibidi 3.14159.
 ```
 
 > Note: All variables can be shadowed without issue
-

@@ -14,7 +14,7 @@ no cap put the fries in the bag bro e bussin
     yo fam "Unknown error.".
 no cap
 ```
-- Catch is optional.
+
 - Multiple catches handle specific error types.
 
 ## Throwing Errors

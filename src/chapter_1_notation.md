@@ -11,6 +11,7 @@ This guide uses the following syntax definitions
 - `...`: Informal continuation.
 - `(..)`: For grouping
 Example
-```
+
+```text
 <var-decl> ::= (gyatt | facts) <ident> [is <type>] skibidi <expr> [.]
 ```
