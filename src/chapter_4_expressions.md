@@ -22,7 +22,7 @@
 
 ## Block Expressions
 
-Syntax: `bussin <statements> [pluh <expr>] no cap`
+Syntax: `bussin <expr> no cap`
 
 ```skullbrain
 gyatt result skibidi bussin
