@@ -11,7 +11,7 @@ SkullScript provides the following primitive types:
 | `chad`    | Single-line string                                 | `'hello'`, `'world'`                |
 | `gigachad`| Multi-line string                                  | `"multi\nline\nstring"`             |
 | `vibing`  | 64-bit floating-point                              | `3.14`, `2.71828`                   |
-| `clutch`  | Boolean (kinda of)                                 | `w`(true), `l`(false), `eh` (maybe) |
+| `clutch`  | Boolean (kinda of)                                 | `👍`(true), `👎`(false), `🤞`(maybe) |
 | `bro`     | Any Type                                           | -                                   |
 
 ## Type Aliases

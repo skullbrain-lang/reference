@@ -2,7 +2,7 @@
 
 ## Function Definition
 
-Syntax: `[mew | goated] bop <ident> uwu [<ident> is <type> [n <ident> is <type>]*] owo [bustin <type>] bussin <expr>* no cap`
+Syntax: `[mew | goated] bop <ident> [uwu [<ident> is <type> [n <ident> is <type>]*] owo] [bustin <type>] bussin <expr>* no cap`
 
 ```skullbrain
 bop add uwu x is aura n y is aura owo bustin aura bussin

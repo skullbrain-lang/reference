@@ -4,20 +4,20 @@
 
 | Standard | SkullScript       | Description                     |
 |----------|-------------------|---------------------------------|
-| `+`      | `boost`           | Addition                        |
-| `-`      | `cut`             | Subtraction                     |
-| `*`      | `drift`           | Multiplication                  |
+| `+`      | `boost` or `🔋`         | Addition                        |
+| `-`      | `cut`   or `🪫`            | Subtraction                     |
+| `*`      | `drift`             | Multiplication                  |
 | `/`      | `dab`             | Division                        |
-| `%`      | `skrrt`           | Modulo                          |
-| `==`     | `valid`           | Equality                        |
-| `!=`     | `cap`             | Inequality                      |
-| `>`      | `flex`            | Greater than                    |
-| `<`      | `lowkey`          | Less than                       |
-| `>=`     | `flex valid`      | Greater than or equal           |
-| `<=`     | `lowkey valid`    | Less than or equal              |
-| `&&`     | `frfr`            | Logical AND                     |
-| `||`     | `but eh`          | Logical OR                      |
-| `!`      | `nah`             | Logical NOT                     |
+| `%`      | `skrrt` or `🌀`           | Modulo                          |
+| `==`     | `valid` or `💯`           | Equality                        |
+| `!=`     | `cap`   or `🧢`     | Inequality                      |
+| `>`      | `flex`  or `💪`        | Greater than                    |
+| `<`      | `lowkey`  or `😏`      | Less than                       |
+| `>=`     | `flex valid` or `💪💯`    | Greater than or equal           |
+| `<=`     | `lowkey valid` or `😏💯`   | Less than or equal              |
+| `&&`     | `frfr`  or `🙄`           | Logical AND                     |
+|  &#124; &#124; | `idk` or `🤷‍♂️`       | Logical OR                      |
+| `!`      | `nah` or `🤡`      | Logical NOT                     |
 | `.`      | `glaze`           | Method chaining                 |
 
 ## Block Expressions
